@@ -1,2 +1,0 @@
-# LMD-POI
-POI Recom
